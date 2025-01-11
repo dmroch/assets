@@ -1,9 +1,9 @@
-1837.61 MB de 3072 MB. //ricardo@yoteaseguro.mx
-2807.32 MB de 4096 MB. //administracion@yoteaseguro.mx
-959.92 MB de 2048 MB. //contacto@yoteaseguro.mx
+1851.68 MB de 3072 MB. //ricardo@yoteaseguro.mx
+2762.83 MB de 4096 MB. //administracion@yoteaseguro.mx
+954.52 MB de 2048 MB. //contacto@yoteaseguro.mx
 151.72 MB de 1024 MB. //mkt@yoteaseguro.mx
-390.15 MB de 1536 MB. //autos@yoteaseguro.mx
-285.73 MB de 1536 MB. //gastosmedicos@yoteaseguro.mx
+399.97 MB de 1536 MB. //autos@yoteaseguro.mx
+289.67 MB de 1536 MB. //gastosmedicos@yoteaseguro.mx
 57.23 MB de 1024 MB. //ejecutivo01@yoteaseguro.mx
-424.25 MB de 1024 MB. //calidad@yoteaseguro.mx
-696.87 MB de 1536 MB. //operaciones@yoteaseguro.mx
+439.66 MB de 1024 MB. //calidad@yoteaseguro.mx
+710.52 MB de 1536 MB. //operaciones@yoteaseguro.mx
