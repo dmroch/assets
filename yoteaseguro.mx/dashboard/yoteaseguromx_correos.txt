@@ -2,7 +2,7 @@ usado,disponible,usuario
 2100.98,3072,ricardo@yoteaseguro.mx
 2045.49,4096,administracion@yoteaseguro.mx
 1219.72,2048,contacto@yoteaseguro.mx
-200.81,1024,mkt@yoteaseguro.mx
+200.47,1024,mkt@yoteaseguro.mx
 436.57,1536,autos@yoteaseguro.mx
 273.84,1536,gastosmedicos@yoteaseguro.mx
 56.00,1024,ejecutivo01@yoteaseguro.mx
